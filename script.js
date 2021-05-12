@@ -1,5 +1,5 @@
-let radiusC = 0
 let radiusFindA = 0
+let radiusFindC = 0
 let cCircle = 0
 let aCircle = 0
 let diameterC = 0
